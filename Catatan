@@ -1,0 +1,12 @@
+Tipe Data Python :
+- Tipe Data Primitive
+  - Integer (Int) -> Numerikal
+  - String (Str) -> Character A-Z, 0-9, Special Character
+  - Float (float) -> Decimal (Bilangan Berkoma)
+  - Booloean (bool) -> True/False
+
+- Tipe Data Non Primitive
+
+  TIPS :
+ - Gunakan variabel yang mudah dibaca atau meaningful
+ - Buatlah Dokumentasi agar memudahkan kita kedepannya
