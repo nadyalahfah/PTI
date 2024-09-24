@@ -1,12 +1,34 @@
-Tipe Data Python :
-- Tipe Data Primitive
-  - Integer (Int) -> Numerikal
-  - String (Str) -> Character A-Z, 0-9, Special Character
-  - Float (float) -> Decimal (Bilangan Berkoma)
-  - Booloean (bool) -> True/False
+# Tipe Data Python
+#1. Variable Declaration
+   Data Primitive =
+    - Integer (Int) -> Numerikal (Menggunakan Bilangan Bulat)
+    - String (Str) -> Character A-Z, 1-9, Special Character
+    (string tidak dioperasikan layaknya numerik)
+    - Float (Float) -> Mirip dengan Integer, tapi angka desimal (dapat menggunakan koma)
+    - Boolean (Bool) -> Representasi sebuah nilai True/False (0/1)
 
-- Tipe Data Non Primitive
+   Data Non-Primitive =
 
-  TIPS :
- - Gunakan variabel yang mudah dibaca atau meaningful
- - Buatlah Dokumentasi agar memudahkan kita kedepannya
+#2. Operators 
+    - Operator Aritmatika: +, -, *, /, //, %, **.
+    (Operator ini digunakan untuk melakukan operasi matematis)
+
+    - Operator Perbandingan: ==, !=, >, <, >=, <=.
+    (Operator ini membandingkan dua nilai dan mengembalikan nilai boolean (True atau False))
+
+    - Operator Logika: and, or, not.
+    (Operator ini digunakan untuk menggabungkan beberapa ekspresi boolean)
+
+    - Operator Bitwise: &, |, ^, ~, <<, >>.
+    (Operator ini bekerja pada tingkat bit)
+
+    - Operator Penugasan: =, +=, -=, *=, dll.
+    (Operator ini digunakan untuk menetapkan nilai ke variabel)
+
+#3. Perulangan (Looping)
+Pengulangan (looping) di Python adalah cara untuk menjalankan sekelompok perintah secara berulang. Terdapat dua jenis utama:
+
+    - For Loop: Mengiterasi elemen dalam sebuah iterable, seperti list atau string.
+    - While Loop: Mengulangi blok kode selama kondisi tertentu bernilai True.
+    
+Looping berguna untuk menghemat waktu dan mengurangi kode yang harus ditulis saat menangani koleksi data atau melakukan tugas berulang.
